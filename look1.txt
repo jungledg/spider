@@ -1,0 +1,77 @@
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">项目名称：</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">重庆市沙坪坝区天星桥街道办事处环境卫生清扫服务</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">采购编号：</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体">2015332<o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">评审日期：</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体">2015</span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">年</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体">11</span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">月</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体">9</span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">日</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">采购方式：</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">竞争性谈判</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">采购人名称：</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">天星桥街道机关</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">采购人地址：</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p> </o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">联系电话：</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体">65418954<o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">采购代理机构名称：</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">重庆市沙坪坝区公共资源交易中心</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">采购代理机构地址：</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">重庆市沙坪坝区天梨路</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体">199</span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">号</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">项目负责人：</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">周老师</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">联系电话：</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体">65360415<o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">质疑经办联系人：</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">杨老师</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">质疑经办联系人电话：</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体">65360405<o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">评标委员会成员名单：</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">赵国弟</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体">  </span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">冯小勇</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体">  </span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">刘洪</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">成交供应商：</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">中标单位：重庆新思路环卫股份有限公司</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><br/>    </span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">中标金额：</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体">917,000.00</span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">元</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">公示期：</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span style="FONT-FAMILY: 宋体; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun; mso-bidi-font-family: 宋体">至发布之日起七个工作日</span>
+<span lang="EN-US" style="FONT-FAMILY: Simsun; FONT-SIZE: 12pt; mso-font-kerning: 0pt; mso-bidi-font-family: 宋体"><o:p></o:p></span>
+<span lang="EN-US"><o:p><font size="3"> </font></o:p></span>
+<span class="articleTitleList01"><img height="49" src="image/DownLogo01.gif" width="128"/><br/>重庆市沙坪坝区人民政府版权所有©<br/>重庆市沙坪坝区人民政府信息中心、重庆市沙坪坝区教育管理信息中心技术支持<br/>地址：重庆市重庆沙坪坝区凤天大道8号 邮编：400038<br/>ICP备案编号：<a href="http://www.miibeian.gov.cn">渝ICP备08001822号</a><br/>
+</span>

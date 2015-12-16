@@ -1,0 +1,18 @@
+import re
+from cqspider1.Filter import *
+
+
+f = open('data.txt','r')
+try:
+    content = f.read()
+finally:
+    f.close()
+if content:
+    print 'exist'
+else:
+    print 'no exist'
+fil = Filter(content)
+list = fil.get_item()
+print list
+for i in list:
+    i
