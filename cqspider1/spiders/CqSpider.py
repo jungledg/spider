@@ -1,9 +1,10 @@
 #coding=utf-8
 import scrapy
 import re
+
+from cqspider1.FilterForCQS import FilterForCQS
 from cqspider1.items import Cqspider1Item
 from scrapy.http import FormRequest,Request
-from cqspider1.FilterForCQS import FilterForCQS
 
 class CqzbSpider(scrapy.Spider):
     name = "cqzh"
@@ -29,21 +30,21 @@ class CqzbSpider(scrapy.Spider):
         pagenum = pagenum.group(1).encode('utf8')
         pagenum = int(pagenum) + 1
         x = 1
-        while x <= pagenum :
-            yield FormRequest( self.start_urls[0],
-                            formdata = {
-                            'content.contentTitle':'',
+        while x <= pagenum:
+            yield FormRequest(self.start_urls[0],
+                            formdata={
+                             'content.contentTitle':'',
                             'content.projectNo':'',
                             'page.pageSize':'10',
-                            'page.pageNo': str(x)
+                            'page.pageNo':str(x)
                             },
-                            callback = self.get_link
+                            callback=self.get_link
                             )
             x += 1
 
     def get_link(self,response):
         linklist = response.xpath('//td/a/@href').extract()
-        for    link in linklist :
+        for link in linklist:
             yield Request(url = link, callback = self.parse_page_content)
 
     def parse_page_content(self,response):

@@ -39,14 +39,12 @@ class DdkSpider(scrapy.Spider):
     def parse_page_content(self,response):
         item = Cqspider1Item()
         page_content = response.xpath('//tr[4]/td[2]//div[1]').extract()
-        page_content = page_content.encode('utf8')
-        if page_content:
-            page_content = page_content.pop()
-            page_content = re.sub('<[^>]+>',' ',page_content)
-            fil = FilterForHC(page_content)
-            item['project_name'] = fil.get_project_name()
-            item['bid_name'] = fil.get_bid_name()
-            item['bid_time'] = fil.get_bid_time()
-            item['bid_money'] = fil.get_bid_money()
-            return item
+        page_content = page_content.pop()
+        page_content = re.sub('<[^>]+>',' ',page_content)
+        fil = FilterForHC(page_content)
+        item['project_name'] = fil.get_project_name()
+        item['bid_name'] = fil.get_bid_name()
+        item['bid_time'] = fil.get_bid_time()
+        item['bid_money'] = fil.get_bid_money()
+        return item
 

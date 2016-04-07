@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 import re
+
+import time
+
+import datetime
+
 from items import Cqspider1Item
 import sys
 reload(sys)
@@ -111,14 +116,23 @@ class FilterForJJ:
 
     def get_bid_name(self):
         str = self.str
-        re_bid_name=u"(?<=\u4e2d\u6807\u4eba\uff1a)[\u4e00-\u9fff]+|(?<=\u6210\u4ea4\u4f9b\u5e94\u5546\uff1a)[\u4e00-\u9fff]+|(?<=\u4e2d\u6807\u4eba\uff1a)[\u4e00-\u9fff]+|(?<=\u6210\u4ea4\u5355\u4f4d\uff1a)[\u4e00-\u9fff]+"
+        re_bid_name=u"[\u4e00-\u9fff]+\([\u4e00-\u9fff]+\)\u516c\u53f8|[\u4e00-\u9fff]+\u516c\u53f8"
         re_bid_name = re.compile(re_bid_name)
         m_bid_name = re_bid_name.findall(str)
         if m_bid_name:
             #for l in m_project_name:
             l = m_bid_name[0]                           #沙坝区是m_bid_name[0]
             l = l.decode()
-            return l
+            l = l.replace('；','')
+            l = l.replace('。','')
+            l = l.replace('：','')
+            l = l.replace('\r','')
+            l = l.replace('\n','')
+            l = l.replace(' ','')
+            if "流标" in l:
+                return None
+            else:
+                return l
 
     def get_bid_money(self):
         str = self.str
@@ -135,7 +149,14 @@ class FilterForJJ:
             l = l.replace('\r','')
             l = l.replace('\n','')
             l = l.replace(' ','')
-            return l
+            l = l.replace(',','')
+            money = re.search("\d+\.?\d*",l)
+            money = float(money.group(0))
+            unit = "万"
+            unit = unit.decode("utf8")
+            if(re.search(unit,l)):
+                money *= 10000
+            return money
 
     def get_bid_time(self):
         str = self.str
@@ -152,4 +173,11 @@ class FilterForJJ:
             l = l.replace('\r','')
             l = l.replace('\n','')
             l = l.replace(' ','')
+            re_money = u"\d+\u5e74\d+\u6708\d+\u65e5"
+            re_money = re.compile(re_money)
+            l = re_money.findall(l)
+            l = l[0]
+            l = time.strptime(l,u"%Y\u5e74%m\u6708%d\u65e5")
+            l = datetime.date(l.tm_year,l.tm_mon,l.tm_mday)
+            l = l.strftime("%Y-%m-%d %H:%M:%S")
             return l

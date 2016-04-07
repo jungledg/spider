@@ -8,6 +8,9 @@ import sys
 import MySQLdb
 from scrapy.exceptions import DropItem
 from scrapy.http import Request
+import sys
+reload(sys)
+sys.setdefaultencoding( "utf-8" )
 
 class Cqspider1Pipeline(object):
 	pass
@@ -19,15 +22,15 @@ class Cqspider1Pipeline(object):
 	# 							charset="utf8",
 	# 							use_unicode=True)
 	# 	self.cursor = self.conn.cursor()
-	#
+    #
 	# def process_item(self,item,spider):
 	# 	try:
-	# 		self.cursor.execute("""INSERT IGNORE INTO bid_content(project_name,bid_name,bid_money,bid_time)
-	# 						VALUES (%s,%s,%s)""",
+	# 		self.cursor.execute("""INSERT IGNORE INTO wzh_wzh(Project_Name,Bid_Name,Bid_Money,Bid_Time)
+	# 						VALUES (%s,%s,%s,%s)""",
 	# 						(item['project_name'].encode('utf-8'),
 	# 						item['bid_name'].encode('utf-8'),
-	# 						item['bid_money'].encode('utf-8'),
-	# 						item['bid_time'].encode('utf-8')))
+	# 						item['bid_money'],
+	# 						item['bid_time']))
 	# 		self.conn.commit()
     #
 	# 	except MySQLdb.Error,e:

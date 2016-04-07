@@ -1,9 +1,10 @@
 #coding=utf-8
 import scrapy
 import re
+
+from cqspider1.FilterForYB import FilterForYB
 from cqspider1.items import Cqspider1Item
 from scrapy.http import FormRequest,Request
-from cqspider1.FilterForYB import FilterForYB
 
 class DdkSpider(scrapy.Spider):
     name = 'cqyb'
